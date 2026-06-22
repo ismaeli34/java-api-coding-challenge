@@ -119,10 +119,6 @@ Resources are clearly defined (addresses)
 
 Frontend can easily consume endpoints
 
-Key interview line:
-
-“API versioning was introduced to ensure backward compatibility and support future evolution of the service.”
-
 # 4. 🧾 Validation & Error Handling
 Before
 No validation guarantees
@@ -158,10 +154,6 @@ Frontend receives structured errors
 ✔ Security improvement
 
 No internal stack traces exposed
-
-Key interview line:
-
-“A centralized exception handling mechanism was introduced to standardize error responses and improve API reliability.”
 
 # 5. 🚀 Deployment Readiness
 Before
