@@ -190,3 +190,11 @@ Database config moved to:
 SPRING_DATASOURCE_URL
 SPRING_DATASOURCE_USERNAME
 SPRING_DATASOURCE_PASSWORD
+
+
+<img width="902" height="741" alt="Screenshot 2026-06-22 at 15 09 31" src="https://github.com/user-attachments/assets/8d78c455-196e-4754-94aa-a0a65e570bd7" />
+<img width="903" height="734" alt="Screenshot 2026-06-22 at 15 09 40" src="https://github.com/user-attachments/assets/7bc8eb2a-43f7-4744-af64-d3ff392b2e6e" />
+<img width="899" height="715" alt="Screenshot 2026-06-22 at 15 09 50" src="https://github.com/user-attachments/assets/ff0a71f3-a032-49fe-9a14-bd9fa82c0207" />
+<img width="901" height="716" alt="Screenshot 2026-06-22 at 15 10 01" src="https://github.com/user-attachments/assets/6fc1e2ca-2eba-45c8-bf5b-0a743825b2ad" />
+<img width="899" height="712" alt="Screenshot 2026-06-22 at 15 10 45" src="https://github.com/user-attachments/assets/bdd1236b-2fa1-493c-8f3e-2fea27c3dc75" />
+<img width="904" height="718" alt="Screenshot 2026-06-22 at 15 10 57" src="https://github.com/user-attachments/assets/3ea892a3-0fb5-41b6-994f-db547a5413ac" />
